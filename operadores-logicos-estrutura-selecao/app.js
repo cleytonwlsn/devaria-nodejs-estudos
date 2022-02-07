@@ -20,10 +20,10 @@ readLine.question('Qual o ano do seu nascimento?', ano => {
           switch(nome){
             case 'Douglas' :
               console.log('Bem-vindo ao Kart, Douglas!');
-              break
+              break;
             case 'Cleyton' :
               console.log('Bem-vindo ao Kart, Cleyton!');
-              break
+              break;
             default:
               console.log('Seu nome não foi identificado na lista de presença.');
           }
